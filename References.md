@@ -5,3 +5,4 @@
 3. https://webformyself.com - все о сайтостроении. 
 4. https://caniuse.com - проверка работы тегов для разных браузеров. 
 5. https://codepen.io - CodePen is a social development environment for front-end designers and developers.
+6. https://dev.w3.org/html5/html-author/charref - мнемоники
