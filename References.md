@@ -6,3 +6,4 @@
 4. https://caniuse.com - проверка работы тегов для разных браузеров. 
 5. https://codepen.io - CodePen is a social development environment for front-end designers and developers.
 6. https://dev.w3.org/html5/html-author/charref - мнемоники
+7. https://codyhouse.co - Kick-start your web projects with CodyHouse's CSS framework and library of accessible HTML, CSS, JavaScript components.
