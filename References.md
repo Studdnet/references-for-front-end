@@ -7,3 +7,4 @@
 5. https://codepen.io - CodePen is a social development environment for front-end designers and developers.
 6. https://dev.w3.org/html5/html-author/charref - мнемоники
 7. https://codyhouse.co - Kick-start your web projects with CodyHouse's CSS framework and library of accessible HTML, CSS, JavaScript components.
+8. https://developers.google.com/speed/libraries/?hl=ru-RU&csw=1#jquery - Подключаем jQuery напрямую с CDN.
