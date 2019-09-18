@@ -9,3 +9,10 @@
 7. https://codyhouse.co - Kick-start your web projects with CodyHouse's CSS framework and library of accessible HTML, CSS, JavaScript components;
 9. https://www.w3.org/TR/CSS22/propidx.html - список наследуемых свойств в CSS;
 10. https://unsplash.com - photo for everyone;
+11. https://gs.statcounter.com/ - статистика о браузерах и IT компаниях;
+12. https://psdetch.com/ - online версия как бы photoshop(сильно урезанный); 
+13. https://www.figma.com/ - everything for work with sketch; 
+14. https://spec.whatwg.org/ - спецификация HTML; 
+15. https://validator.w3.org/ - валидатор кода HTML; 
+16. https://code.visualstudio.com/docs/getstarted/tips-and-tricks - shortcut for VSC; 
+
